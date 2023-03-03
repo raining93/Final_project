@@ -25,3 +25,7 @@
 2023-03-03 20:52:20,291 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-03 20:52:20,291 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-03-03 20:52:20,322 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-03 20:52:20,357 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 214 resources
+2023-03-03 20:52:20,996 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-03 20:52:20,997 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-03 20:52:20,997 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Final_project\petManager\src\test\resources
